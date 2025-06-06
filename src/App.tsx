@@ -99,6 +99,17 @@ function App() {
         "Implemented features like syntax highlighting and cookie management",
       ],
     },
+    {
+      title: "AI intern",
+      company: "Infosys springboard",
+      location: "Bangalore",
+      period: "12/2024 – 01/2025",
+      type: "Remote",
+      achievements: [
+        "A Flask-based web application to detect and manage potential Aadhaar card fraud by verifying user-submitted documents against a database.",
+        "Developed a responsive web interface for uploading ZIP and Excel files, processing documents using YOLO for Aadhaar card classification, and EasyOCR for extracting key details like name, address, and UID, with results displayed in a tabular format.",
+      ],
+    },
   ];
 
   const projects = [
